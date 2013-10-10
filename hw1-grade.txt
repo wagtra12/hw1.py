@@ -1,0 +1,11 @@
+Grader Name: Travis Goodroad
+Evergreen login Gootra28
+2/3
+For number 1 it would be easier to assign variables   such as 
+a = 1
+b = -5.86
+c = 8.5408
+That way you don’t have to worry about miss typing numbers like -5.86 as 5.86
+ That way you can reuse the code for other things
+For number 2 awesome ideas for the import saved you from a lot of unnecessary typing.
+ 

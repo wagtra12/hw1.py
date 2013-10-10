@@ -20,7 +20,6 @@ print "Problem 1 solution follows:"
 print str (5.86+math.sqrt((5.86**2)-4*8.5408)/2)
 print str (5.86-math.sqrt((5.86**2)-4*8.5408)/2)
 
-# ... write your code and comments here (and remove this line)
 
 
 ###
